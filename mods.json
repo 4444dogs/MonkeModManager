@@ -90,6 +90,14 @@
          "releaseId" : 0,
          "author" : "James Newton-King",
          "group" : "Libraries"
+      },
+      {
+         "name" : "Seventys Gorilla Arcade",
+         "tag" : "",
+         "gitPath" : "7Seventy0/SeventysGorillaArcade",
+         "releaseId" : 0,
+         "author" : "Seventy",
+         "group" : "Gameplay"
       }
    ],
    "groups" : [
